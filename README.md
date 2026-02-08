@@ -73,21 +73,19 @@ Multiple regression models including scoring and performance differentials impro
 Project Structure:
 
 nba-team-wins-regression/
-│
-├── data/
-│   └── nba_wins_data.csv
-│
-├── images/
-│   ├── elo_vs_wins.png
-│   └── points_vs_wins.png
-│
-├── notebooks/
-│   └── nba_team_wins_regression.ipynb
-│
-├── reports/
-│   └── nba_team_wins_report.html
-│
-└── .gitignore
+
+data/
+nba_wins_data.csv
+
+images/
+elo_vs_wins.png
+points_vs_wins.png
+
+notebooks/nba_team_wins_regression.ipynb
+
+reports/nba_team_wins_report.html
+
+.gitignore
 
 
 

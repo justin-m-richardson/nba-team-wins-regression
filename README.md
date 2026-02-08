@@ -81,9 +81,9 @@ images/
 elo_vs_wins.png
 points_vs_wins.png
 
-notebooks/nba_team_wins_regression.ipynb
+notebooks/ nba_team_wins_regression.ipynb
 
-reports/nba_team_wins_report.html
+reports/ nba_team_wins_report.html
 
 .gitignore
 

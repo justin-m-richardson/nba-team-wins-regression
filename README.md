@@ -70,6 +70,13 @@ A simple linear regression using Elo rating alone produced an R squared value of
 Multiple regression models including scoring and performance differentials improved model performance. The final model achieved an R squared value of approximately 0.88, indicating that performance differentials provide additional explanatory power beyond scoring averages alone.
 
 
+
+
+
+
+
+
+
 Project Structure:
 
 nba-team-wins-regression/
@@ -86,6 +93,9 @@ notebooks/ nba_team_wins_regression.ipynb
 reports/ nba_team_wins_report.html
 
 .gitignore
+
+
+
 
 
 

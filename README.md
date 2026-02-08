@@ -15,14 +15,14 @@ Dataset:
 
 The dataset contains historical NBA team statistics including:
 
--Average points scored per game (avg_pts)
--Average opponent points allowed (avg_opp_pts)
--Average Elo rating representing relative team skill (avg_elo_n)
--Average opponent Elo rating (avg_opp_elo_n)
--Average point differential (avg_pts_differential)
--Average Elo differential (avg_elo_differential)
--Total season wins (total_wins)
--The dataset includes 618 observations across multiple NBA seasons.
+ - Average points scored per game (avg_pts)
+ - Average opponent points allowed (avg_opp_pts)
+ - Average Elo rating representing relative team skill (avg_elo_n)
+ - Average opponent Elo rating (avg_opp_elo_n)
+ - Average point differential (avg_pts_differential)
+ - Average Elo differential (avg_elo_differential)
+ - Total season wins (total_wins)
+ - The dataset includes 618 observations across multiple NBA seasons.
 
 Dataset location: data/nba_wins_data.csv
 
@@ -32,11 +32,15 @@ Methods Used
 
 The analysis includes:
 
--Exploratory data analysis using scatter plots
--Pearson correlation analysis
--Simple linear regression
--Multiple linear regression
--Model comparison using R squared values
+ - Exploratory data analysis using scatter plots
+
+ - Pearson correlation analysis
+
+ - Simple linear regression
+
+ - Multiple linear regression
+
+ - Model comparison using R squared values
 
 Python libraries used:
 
